@@ -1,3 +1,3 @@
-module github.com/deitrix/aoc
+module github.com/deitrix/adventofcode
 
 go 1.19

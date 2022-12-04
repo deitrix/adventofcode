@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	. "github.com/deitrix/aoc/picnic"
+	. "github.com/deitrix/adventofcode/picnic"
 )
 
 func main() {
